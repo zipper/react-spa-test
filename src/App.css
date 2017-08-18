@@ -1,0 +1,30 @@
+html {
+  font:87.5%/1.5 Roboto, Arial, sans-serif;
+}
+
+h1 {
+  margin:0 0 15px;
+  font-weight:normal;
+  font-size:1.43rem;
+}
+
+h2 {
+  font-weight:normal;
+  font-size:1.29rem;
+}
+
+.app {
+  padding:20px;
+  text-align:left;
+}
+
+@media (min-width: 768px) {
+  h1 {
+    font-size:2rem;
+  }
+
+  h2 {
+    font-size:1.57rem;
+  }
+
+}
